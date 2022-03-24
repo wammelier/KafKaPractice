@@ -5,7 +5,7 @@ KafKa 활용하기
 ## Intro
 ### 방법 1. KafKa + SpringBoot(Websocket)
 ==> 
-  a. kafka 의 구성요서
+  <b>a. kafka 의 구성요소</b>
     <br/>a-1 Event
         kafka 에서 Producer 와 Consumer 가 데이터르 주고 받는 단위
     <br/>a-2 Producer

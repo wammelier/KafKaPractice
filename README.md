@@ -17,6 +17,10 @@ KafKa 활용하기
  <br/><br/><b>b. 채팅서비스 만들기</b>
  <br/>Download 항목 : Zookeeper
  <br/>구성 : springBoot, Zookeeper(kafka cluster management clinet), websocket, mongoDB
+ 보통 미들웨어 클라이언트는 2가지로 나뉜다.
+ nbsp;nbsp; 1. MessageBroker
+ nbsp;nbsp; 2. EventBroker
+ 
  
 <br/><br/>### 방법 2. ReactiveStream + MongoDB + SpringBoot
 ==>

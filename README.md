@@ -18,8 +18,8 @@ KafKa 활용하기
  <br/>Download 항목 : Zookeeper
  <br/>구성 : springBoot, Zookeeper(kafka cluster management clinet), websocket, mongoDB
  보통 미들웨어 클라이언트는 2가지로 나뉜다.
-    <br/>&emsp;1. MessageBroker
-    <br/>&emsp;2. EventBroker
+    <br/>&emsp;1. MessageBroker - 미들웨어의 메세지를 컨트롤 (redis)
+    <br/>&emsp;2. EventBroker - 미들웨어의 메세지 or 이벤트를 둘다 컨트롤할 수 있다. (kafka)
  
  
 <br/><br/>### 방법 2. ReactiveStream + MongoDB + SpringBoot

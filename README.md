@@ -20,6 +20,11 @@ KafKa 활용하기
  <br/><br/>보통 미들웨어 클라이언트는 2가지로 나뉜다.
     <br/>&emsp;1. MessageBroker - 미들웨어의 메세지를 컨트롤 (redis)
     <br/>&emsp;2. EventBroker - 미들웨어의 메세지 or 이벤트를 둘다 컨트롤할 수 있다. (kafka)
+    
+### 사용한 모듈들
+<b>1.docker</b>
+<b>2.docker-compose</b>
+<b>3.dockerize Kafka</b>
  
  
 <br/><br/>### 방법 2. ReactiveStream + MongoDB + SpringBoot

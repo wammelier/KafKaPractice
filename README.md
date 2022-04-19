@@ -22,6 +22,9 @@ KafKa 활용하기
     <br/>&emsp;2. EventBroker - 미들웨어의 메세지 or 이벤트를 둘다 컨트롤할 수 있다. (kafka)
     
 <b>Apache Kafka 이해하기</b>
+  #1
+  <image src='https://user-images.githubusercontent.com/57661474/164008473-3e88ffc6-d866-49fa-a818-b568f38ca28d.jpeg'/>
+  #2
   <image src='https://user-images.githubusercontent.com/57661474/164008212-d17f9ae4-a2ac-4546-a87a-ca944cd49b69.jpeg'/>
     
 ### 사용한 모듈들

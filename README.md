@@ -21,7 +21,7 @@ KafKa 활용하기
     <br/>&emsp;1. MessageBroker - 미들웨어의 메세지를 컨트롤 (redis)
     <br/>&emsp;2. EventBroker - 미들웨어의 메세지 or 이벤트를 둘다 컨트롤할 수 있다. (kafka)
     
-<b>Apache Kafka 이해하기</b>
+### Apache Kafka 이해하기
   <br/>#1
   <br/><image src='https://user-images.githubusercontent.com/57661474/164008473-3e88ffc6-d866-49fa-a818-b568f38ca28d.jpeg'/>
   <br/>#2

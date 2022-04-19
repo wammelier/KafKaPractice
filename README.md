@@ -25,7 +25,7 @@ KafKa 활용하기
   #1
   <br/><image src='https://user-images.githubusercontent.com/57661474/164008473-3e88ffc6-d866-49fa-a818-b568f38ca28d.jpeg'/>
   <br/><br/>#2
-  <br/><image src='https://user-images.githubusercontent.com/57661474/164008212-d17f9ae4-a2ac-4546-a87a-ca944cd49b69.jpeg'/>
+  <br/><image src='https://user-images.githubusercontent.com/57661474/164012906-3b2c8b61-1c37-4410-9553-f9d9399a1044.jpeg'/>
   <br/><br/><b>(1)Topic</b>
   <br/> Message가 관리되는 단위
   <br/><br/><b>(2)broker</b>

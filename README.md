@@ -27,11 +27,12 @@ KafKa 활용하기
   <br/><br/>#2
   <br/><image src='https://user-images.githubusercontent.com/57661474/164012906-3b2c8b61-1c37-4410-9553-f9d9399a1044.jpeg'/>
   <br/><br/><b>(1)Topic</b>
-  <br/> Message가 관리되는 단위
+  <br/> Message가 관리되는 단위, 예를들어 카톡 단체방 A, B 가 있다면 A 방으로 보낸 메세지가 B방에 노출되며 안된다. A 방에서 생산된 메세지는 A방에 존재하는 사람들에게마 보여져야 한다.
+  <br/> 따라서 각 생성되는 채팅방 마다 Topic을 다르게 설정해야 한다.
   <br/><br/><b>(2)broker</b>
-  <br/> Broker 는 Topic 별로 메세지를 분류하여 쌓아 놓는다.
+  <br/> Broker 는 Kafka Server 를 의미한다. 한 클러스터 내에서 여러개의 kafka server 를 띄울수 있다. Topic 별로 메세지를 분류하여 쌓아 놓는다.
   <br/><br/><b>(3)Producer</b>
-  <br/> Producer는 특정 Topic 의 메세지를 생성한 뒤 해당 메세지르 brokerㅇ 전달한다.
+  <br/> Producer는 특정 Topic 의 메세지를 생성한 뒤 해당 메세지를 broker에 전달한다. 
   <br/><br/><b>(4)Consumer</b>
   <br/> Consumer들이 메세지를 가져가 처리한다
   <br/><br/><b>(5)Zookeeper</b>

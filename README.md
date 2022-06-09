@@ -44,7 +44,7 @@ KafKa 활용하기
 
 
 ### Websocket을 이용하여 테스트 방법 찾아보기
- 
+<br/> 1. https://victorydntmd.tistory.com/348
  
 <br/><br/>### 방법 2. ReactiveStream + MongoDB + SpringBoot
 ==>

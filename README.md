@@ -41,6 +41,9 @@ KafKa 활용하기
 <b>1.docker</b>
 <b>2.docker-compose</b>
 <b>3.dockerize Kafka</b>
+
+
+### Websocket을 이용하여 테스트 방법 찾아보기
  
  
 <br/><br/>### 방법 2. ReactiveStream + MongoDB + SpringBoot

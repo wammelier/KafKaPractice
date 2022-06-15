@@ -36,7 +36,7 @@ KafKa 활용하기
   <br/><br/><b>(4)Consumer</b>
   <br/> Consumer들이 메세지를 가져가 처리한다
   <br/><br/><b>(5)Zookeeper</b>
-  <br/> Zookeeper 는 Broker의 분산처리를 담당한다.
+  <br/> Zookeeper 는 Broker의 분산처리를 담당한다. 주키퍼는 분산 시스템의 일부분이기 때문에 동작을 멈춘다면 분산 시스템이 멈출수도 있다. 그래서 안정성을 확보하기 위해 클러스터로 구축한다.
 ### 사용한 모듈들
 <b>1.docker</b>
 <b>2.docker-compose</b>
